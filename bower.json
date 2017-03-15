@@ -1,0 +1,31 @@
+{
+  "name": "wall-blog",
+  "description": "MEAN STACK PROJECT",
+  "main": "index.js",
+  "authors": [
+    "Rushabh Wadkar"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "mean"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "toastr": "^2.1.3",
+    "angular": "^1.6.3",
+    "angular-resource": "^1.6.3",
+    "angular-route": "^1.6.3"
+  },
+  "resolutions": {
+    "jquery": "^3.1.1"
+  }
+}

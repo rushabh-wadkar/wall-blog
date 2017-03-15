@@ -1,0 +1,26 @@
+{
+  "name": "wall-blog",
+  "version": "1.0.0",
+  "description": "MEAN STACK PROJECT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushabh-wadkar/wall-blog.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Rushabh Wadkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushabh-wadkar/wall-blog/issues"
+  },
+  "homepage": "https://github.com/rushabh-wadkar/wall-blog#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jade": "^1.11.0"
+  }
+}
